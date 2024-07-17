@@ -1,14 +1,15 @@
-# Tiago Jaconi
+# Bem-vindo ao meu perfil do GitHub! 👋
 
 ## Sobre mim
-
-Desenvolvedor Java, Pós-Graduando em desenvolvimento Full Stack com formação em Engenharia de Computação.
+<ul>
+  <li>👨‍💻 Desenvolvedor Java</li>
+  <li>📚 Pós-Graduando em desenvolvimento Full Stack</li>
+  <li>🎓 Engenharia de Computação</li>
+</ul>
 
 ## Conecte-se comigo
 
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge&logo=dio&logoColor=FF0335&color:FFF&title_color=FF0335&text_color=FFF&bg_color=000)](https://www.dio.me/users/tiagojaconi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagojaconi/)
-
 
 ## Habilidades
 ### Linguagens de Marcação e Estilo
